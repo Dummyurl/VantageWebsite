@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VantageWebTech</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_services_page">ServicesPage</string>
+    <string name="title_activity_about_us_page">AboutUsPage</string>
+    <string name="title_activity_port_folio_page">PortFolioPage</string>
+    <string name="title_activity_contact_us_page">ContactUsPage</string>
+    <string name="Designing">1:Logo and Graphic/Web Designing GUIs.\n2:Templates Designing PSD to HTML5/Bootstrap.\n3:Mobile Apps designing.\n4:PSD to responsive XHTML</string>
+    <string name="Website_development">1:Custom PHP Sites.\n2:Open Source Softwares.\n3:Pre hosted solutions.</string>
+    <string name="Mobiles_app">1:Android Apps.\n2:IOS Apps.</string>
+    <string name="internat_marketing">1:Social Media Optimization.\n2:Search engine Optimization.\n3:Pay Per Click.\n4:Content Strategy Reputation Management</string>
+    <string name="about_us">"Vantage Webtech is an offshore web development and online marketing company providing latest web technology and most updated online marketing solutions.\nOur focus is to stay updated on the best opportunities available in today's volatile on line business environment and provide recommendations, which suit our client's requirements in the best possible way. Offshore Web Design Firm As offshore web design firm, We believe that each business is unique and has good potential to grow - this potential can be tapped by having a personalized and customized approach, which highlights its strengths, help it to reach out to its target audience, convey the right message and provide honest impressions."</string>
+    <string name="address1">SCO 36, Sector 5,\nPanchkula, Haryana, India</string>
+    <string name="phone1">Phone: 09815420173</string>
+    <string name="email1">Email: info@vantagewebtech.com</string>
+    <string name="address2">TA Web Media 46a ,\nChurch Street,\nEnfield EN2 6AZ</string>
+    <string name="phone2">Phone: 020 3397 3811</string>
+    <string name="email2">Email: info@tawebmedia.com</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+
+</resources>
